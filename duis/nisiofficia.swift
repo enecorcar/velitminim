@@ -1,0 +1,2 @@
+MyView()
+    .mask(Circle())
